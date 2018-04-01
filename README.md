@@ -9,7 +9,7 @@ A programming challenge hosted by the McMaster Student branch of the IEEE (Insti
 
 ## Pictures
 
-[Image Not Found] (picture1.png)
+![Image Not Found](picture1.png)
 
 ## Authors
 
