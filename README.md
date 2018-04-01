@@ -1,2 +1,18 @@
-# mcmaster-coding-challenge-2018
-Solutions for the McMaster Coding Challenge, sponsored by Intel. Team was in the top 10 of 50 teams
+# McMaster Programming Challenge 2018
+
+A programming challenge hosted by the McMaster Student branch of the IEEE (Institute for Electrical and Electronics Engineers)
+
+## Completed Using
+
+* [HackerRank](https://www.hackerrank.com/)
+* Python
+
+## Pictures
+
+![Image Not Found] picture1.png
+
+## Authors
+
+* **Ahmed Fuad Ali**
+* **Daniel Jabbour**
+
